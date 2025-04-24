@@ -30,8 +30,6 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNrcDJoYzV2MHlzc3Q0dXAxaHpoNXhkNHVvNHVudXphazJmZGxhZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dtB7kgF86VwZWY5Iee/giphy.gif" width="30" height="25"> GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohannsenLum&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannsenLum&layout=compact&theme=tokyonight" height="150"/>
